@@ -1,0 +1,43 @@
+body {
+    background-color: #202136;
+    color: #f6f6f6;
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .box {
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    background-color: #4a4c67;
+    margin: 10px;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    border: 4px solid rgb(148, 6, 148);
+  }
+  
+  
+  .box p {
+    color: white;
+    margin: 10px;
+  }
+
+  .titulo{
+    font-size: 18px;
+  }
+
+  .desc{
+    font-size: 14px;
+  }
+  
